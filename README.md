@@ -3,6 +3,9 @@ Repositorio en el cual se dara a conocer un grupo de proyectos basado en Microse
 
 Este repositorio sera le encargado de almacenar los archivos de configuración **properties** los cuales son utilizados en el servicio de configuración
 
+![Image](arquitectura-spring-boot-cloud.png)
+
+
 # Eureka server
 [Repositorio](https://github.com/robinarehen/springboot-servicio-eureka-server)
 
