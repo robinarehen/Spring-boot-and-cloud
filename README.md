@@ -9,7 +9,7 @@ Este repositorio sera le encargado de almacenar los archivos de configuración *
 
 En función del crecimiento del proyecto se va actualizando la imagen.
 
-# Servicio Eureka server
+# Servicio Eureka Server
 [Repositorio](https://github.com/robinarehen/springboot-servicio-eureka-server)
 
 # Servicio Productos
@@ -26,3 +26,6 @@ En función del crecimiento del proyecto se va actualizando la imagen.
 
 # Servicio Usuarios
 [Repositorio](https://github.com/robinarehen/springboot-servicio-usuarios)
+
+# Servicio Seguridad Oauth
+[Repositorio](https://github.com/robinarehen/springboot-servicio-oauth)
