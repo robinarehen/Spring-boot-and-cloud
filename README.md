@@ -5,27 +5,6 @@ Este repositorio sera le encargado de almacenar los archivos de configuración *
 
 ## Imagen de la Arquitectura
 
-![Image](arquitectura-spring-boot-cloud.png) <br>
+![Image](documentos/arquitectura-spring-boot-cloud.png) <br>
 
 En función del crecimiento del proyecto se va actualizando la imagen.
-
-# Servicio Eureka Server
-[Repositorio](https://github.com/robinarehen/springboot-servicio-eureka-server)
-
-# Servicio Productos
-[Repositorio](https://github.com/robinarehen/springboot-servicio-productos)
-
-# Servicio Items
-[Repositorio](https://github.com/robinarehen/springboot-servicio-items)
-
-# Servicio Zuul Server
-[Repositorio](https://github.com/robinarehen/springboot-servicio-zuul-server)
-
-# Servicio Config Server
-[Repositorio](https://github.com/robinarehen/springboot-servicio-config-server)
-
-# Servicio Usuarios
-[Repositorio](https://github.com/robinarehen/springboot-servicio-usuarios)
-
-# Servicio Seguridad Oauth
-[Repositorio](https://github.com/robinarehen/springboot-servicio-oauth)
