@@ -1,0 +1,16 @@
+server:
+  port: 8888
+
+---
+spring:
+  application:
+    name: servicio-config-server
+  cloud:
+    config:
+      server:
+        git:
+          default-label: master # branch
+          uri: file:///C:/Users/robin/Documents/workspace-sts-4/free-bank # local repository
+          # uri: https://github.com/robinarehen/free-bank # origin repository
+          search-paths: springboot-proporties # folder
+            
